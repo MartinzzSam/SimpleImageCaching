@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/roomCachingFragment">
+    <fragment
+        android:id="@+id/roomCachingFragment"
+        android:name="com.martin.simpleimagecaching.presentation.room_database_caching.RoomCachingFragment"
+        android:label="fragment_room_caching_"
+        tools:layout="@layout/fragment_room_caching_" >
+        <action
+            android:id="@+id/action_roomCachingFragment_to_internalStorageCachingFragment"
+            app:destination="@id/internalStorageCachingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/internalStorageCachingFragment"
+        android:name="com.martin.simpleimagecaching.presentation.internal_storage_caching.InternalStorageCachingFragment"
+        android:label="fragment_internal_storage_caching"
+        tools:layout="@layout/fragment_internal_storage_caching" />
+</navigation>

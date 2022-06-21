@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/fragment_internal_storage_caching.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/fragment_room_caching_.xml" value="0.30085470085470084" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/row_layout.xml" value="0.772554002541296" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/row_layout2.xml" value="0.3009833262077811" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/row_layout_Internal_Storage.xml" value="0.5" />
+        <entry key="..\:/Projects/SimpleImageCaching2/app/src/main/res/layout/row_layout_internal_storage.xml" value="0.30085470085470084" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
